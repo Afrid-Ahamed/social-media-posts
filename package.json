@@ -1,0 +1,19 @@
+{
+  "name": "social_media_interaction",
+  "version": "1.0.0",
+  "description": "A social media interaction JS activity",
+  "type": "module",
+  "scripts": {
+    "cleanup": "rm -rf .parcel-cache dist",
+    "dev": "npm run cleanup && parcel index.html",
+    "build": "npm run cleanup && parcel build index.html"
+  },
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
+  "author": "Afrid Ahamed",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.10.3"
+  }
+}
