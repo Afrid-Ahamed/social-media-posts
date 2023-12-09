@@ -25,5 +25,5 @@ export default renderView = (
   <img src="./images/comment.svg" alt="comment" class="comment-icon" />
   <img src="./images/share.svg" alt="share" class="share-icon" />
 </section>
-<aside>${likes_count} likes</aside>
+<aside class="likes-count">${likes_count} <span>likes</span></aside>
 </section>`;

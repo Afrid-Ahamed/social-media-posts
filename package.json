@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "cleanup": "rm -rf .parcel-cache dist",
-    "dev": "npm run cleanup && parcel index.html",
+    "dev": "parcel index.html",
     "build": "npm run cleanup && parcel build index.html"
   },
   "browserslist": [

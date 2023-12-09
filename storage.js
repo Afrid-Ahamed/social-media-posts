@@ -1,7 +1,7 @@
 export default postsData = [
   {
     profile: "https://xsgames.co/randomusers/assets/avatars/male/2.jpg",
-    name: "Alex Marshall",
+    name: "Mark Zeager",
     post_image:
       "https://media.istockphoto.com/id/453469507/photo/giraffe-family.jpg?s=612x612&w=0&k=20&c=MJ-Ztd-hqc-M4eyxlJcW2tK5JD054c4dG7G5BqkjVAA=",
     likes_count: 67,
